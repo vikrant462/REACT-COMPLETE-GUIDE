@@ -13,6 +13,11 @@
   }
 }
 
+.App-body {
+  background-color: #bda0a0;
+  padding-bottom: 40%;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -21,7 +26,7 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: rgb(95, 95, 95);
 }
 
 .App-link {
